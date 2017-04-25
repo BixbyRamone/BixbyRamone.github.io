@@ -1,0 +1,102 @@
+header{
+	/*position: relative;*/
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	left: 50px;
+	color: white;
+	font-size: 40px;
+	background-color: #4aaaa5;	
+	border-top: 9px solid #4aaaa5;
+	border-bottom: 9px solid #4aaaa5;
+	/*margin-bottom: 5px solid #ccc;*/
+	width: 350px;
+	text-align: center;
+}
+
+#topRtLnk{
+	color: #777777;
+	padding-top: 30px;
+	float: right;
+}
+
+/*#topRtLnkPo{
+	color: #777777;
+	float: right;
+	border: 5px solid #eee;
+}
+#topRtLnkAb{
+	color: #777777;
+	float: right;
+	border: 5px solid #eee;
+}
+
+
+/*.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}*/
+h1{
+	background-image: 
+	url(../../assets/images/hip-square/hip-square.png)
+}
+
+.head1{
+	clear: both;
+	
+	font-size: 36px;
+	left: 50px;
+	color: #4aaaa5;
+	border-top: 2px solid #ccc;
+}
+
+.aboutMeBox{
+	width: 50%;
+}
+
+.img-dog{
+	float: left;
+}
+
+
+
+.head2{
+	clear: both;
+	position: static;
+	top: 59px;
+	/*padding-right: 50%;	
+	/*width: 50%;*/
+	background: #ffffff;
+	font-size: 20px;
+}
+
+.connect{
+	text-align: center;
+	float: right;
+}
+
+.img-responsive-stk{
+	float: right;
+}
+
+.img-responsive-lnk{
+	float: right;
+}
+
+.img-responsive-git{
+	float: right;
+}
+
+footer{
+	clear: both;
+	color: white;
+	background-color: #4aaaa5;
+	width: 270px;
+	text-align: center;
+}
+
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
